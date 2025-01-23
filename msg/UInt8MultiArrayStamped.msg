@@ -1,4 +1,4 @@
 std_msgs/Header             header
 
 std_msgs/MultiArrayLayout   layout
-float64[]                   data
+uint8[]                     data

@@ -1,3 +1,3 @@
 std_msgs/Header header
 
-float64         data
+int64           data
